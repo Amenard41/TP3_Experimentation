@@ -6,7 +6,7 @@
  
  Avoir Yarn d'installé -> https://classic.yarnpkg.com/en/
  
- Avoir vite d'installé -> https://www.npmjs.com/package/vite
+ Avoir Vite d'installé -> https://www.npmjs.com/package/vite
  
  1- Télécharger le ZIP
  
